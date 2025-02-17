@@ -75,6 +75,7 @@ Premium Proxy :
 ```bash
 python grass.py #or python3 grass.py
 ```
+**Note : After run the bot, wait 5-10 minutes check and reload your dashboard.**
 
 # Buy Me a Coffee
 
