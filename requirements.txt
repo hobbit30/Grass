@@ -3,7 +3,6 @@ asyncio
 aiohttp
 loguru
 fake_useragent
-fake_useragent==1.5.1
 websockets_proxy
 colorama
 
