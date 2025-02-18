@@ -1,20 +1,12 @@
 # Grass Farminng Bot
-Grass Lite Bot - Auto Run With Proxy &amp; Without Proxy
+Grass Farming Bot
 
 - Register Here : [Grass](https://app.getgrass.io/register/?referralCode=8wsppKVYkqFsgbp)
 - Use Code : 8wsppKVYkqFsgbp
 
-## Features
-
-  - Choose [ 1 ] Auto Run With Proxy [Free Proxy & Premium Proxy]
-  - Choose [ 2 ] Auto Run Without Proxy
-    
-Note: Choose [ 1 ] recommended to use premium residential proxy [CherryProxy](https://center.cherryproxy.com/Login/Register?invite=5c5d999f), 
-      Choose [ 2 ] only 1 connection.
-   
 # Requiremnets
 
-- Make sure you have Python3.9 or higher version using OpenSSL 1.1.1+
+- Make sure you have Python3.10 or higher version
 
 # Instalation
 
@@ -57,14 +49,14 @@ Note: Choose [ 1 ] recommended to use premium residential proxy [CherryProxy](ht
     2slc.....xyz
   ```
 
-- **local_proxies.txt (Opsional)** If you want to use proxies, you will find a `local_proxies.txt` file in your project directory. Make sure the file contains data that matches the format expected by the script. Here is an example of the file format:
+- **proxies.txt** If you want to use proxies, you will find a `proxies.txt` file in your project directory. Make sure the file contains data that matches the format expected by the script. Here is an example of the file format:
   ```bash
     http://ip:port
     http://user:pass@ip:port
     socks5://ip:port
     socks5://user:pass@ip:port
   ```
-Note: Choose [ 1 ] recommended to use premium residential proxy, Your account will connect to as many networks as the number of active proxies in `local_proxies.txt`
+Note: Recommended to use premium residential proxy  `proxies.txt`
 
 Premium Proxy : 
   - [CherryProxy](https://center.cherryproxy.com/Login/Register?invite=5c5d999f)
@@ -82,6 +74,7 @@ python grass.py #or python3 grass.py
 - **ETH:** 0x3Ccd36B5590B360e01b001bf7d077627F292BF02
 - **TON:** UQBNMJDaLlk48UJv8IdeRUO9w-RCnktF9lxjLtIzYZYiZ_JW
 - **SOL:** A4Z435kxMcy2L9HVidg7AUrToYHDVd1X2H8RucG5HukK
+- **EVM:** 0xC412668c6Da3E7Fb4729Df543B318673B07974bb
 
 ## Notes
 Run this bot, use my referral code if you don't have one.
