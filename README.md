@@ -1,4 +1,4 @@
-# Grass Farminng Bot
+# Grass Farming Bot
 
 - Register Here : [Grass](https://app.getgrass.io/register/?referralCode=8wsppKVYkqFsgbp)
 - Use Code : 8wsppKVYkqFsgbp
