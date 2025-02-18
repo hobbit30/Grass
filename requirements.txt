@@ -1,8 +1,7 @@
-requests
-asyncio
-aiohttp
-loguru
 fake_useragent
+loguru
 websockets_proxy
+websockets==12.0
+requests
 colorama
-
+aiohttp
